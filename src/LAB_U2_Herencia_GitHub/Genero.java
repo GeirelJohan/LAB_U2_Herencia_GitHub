@@ -10,6 +10,7 @@ package LAB_U2_Herencia_GitHub;
  */
 public enum Genero {
     
+    
     Ciber_seguridad,
     Programacion,
     Inteligencia_Artificial,

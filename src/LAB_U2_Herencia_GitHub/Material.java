@@ -8,7 +8,8 @@ package LAB_U2_Herencia_GitHub;
  *
  * @author fiore
  */
-public abstract class  Material {
+
+public a+bstract class  Material {
     
    private final int id;
     private String titulo;
