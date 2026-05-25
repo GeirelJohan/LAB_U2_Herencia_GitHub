@@ -9,7 +9,7 @@ package LAB_U2_Herencia_GitHub;
  * @author fiore
  */
 
-public a+bstract class  Material {
+public abstract class  Material {
     
    private final int id;
     private String titulo;
